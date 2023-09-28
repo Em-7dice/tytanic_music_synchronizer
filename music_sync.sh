@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# Tytanic Music Syncronizer
+# Tytanic Music Synchronizer
 #
 #	syncs target .flac library to target .mp3 library
 #
